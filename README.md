@@ -17,8 +17,6 @@ I am aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### About Me :
 
-- :telescope: I’m currently working on a job hunting platform project that encompasses TypeScript and React.js as the frontend and C#/ASP.NET and PyTorch as the backend.
-
 - :zap: In my free time, I like to play videogames, anime, and improve my overall skills as a developer.
 
 ### :hammer_and_wrench: Languages and Tools :
